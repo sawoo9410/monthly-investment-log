@@ -29,7 +29,7 @@
 | 06.09 | 엔비디아 (NVDA)     | 매수 | 1주  | 324,919  | 324,919    |
 | 06.09 | 퀄컴 (QCOM)         | 매도 | 1주  | 345,565  | 345,565    |
 | 06.11 | SPYM                | 매수 | 2주  | 130,286  | 260,572    |
-| 06.11 | JEPQ                | 매수 | 18주 | 88,497~89,197 | 1,597,034 |
+| 06.11 | JEPQ                | 매수 | 18주 | 88,497\~89,197 | 1,597,034 |
 | 06.11 | 옥시덴탈 (OXY)      | 매도 | 4주  | 88,234   | 352,936    |
 | 06.11 | TBIL                | 매도 | 12주 | 75,982   | 911,784    |
 | 06.17 | 사운드하운드 (SOUN) | 매도 | 5주  | 10,715   | 53,575     |
@@ -133,7 +133,7 @@ KODEX 미국S&P500(H) 41주 / 평단 16,596 / 현재가 16,680 / **683,880원** 
 
 ### 4-1. 시장 환경 요약
 
-6월 미국 증시는 5월의 9주 연속 상승·신고가 행진 뒤 **조정**으로 돌아섰다. S&P500은 6월 약 -2%로 월말 7,440선([Madison Investments, June 2026](https://madisoninvestments.com/monthly-market-update-june-2026/)), 나스닥 컴포짓은 5/29~6/29 약 -6%로 더 크게 빠졌다([Investing.com](https://www.investing.com/indices/nasdaq-composite-historical-data)). 분기점은 **6/17 FOMC**로, 금리는 3.50~3.75%로 동결됐으나 점도표가 매파로 기울며(위원 다수 연내 인상·인플레 상방 리스크) 시장이 인하 기대를 미뤘다([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm), [CNBC](https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html)). 배경엔 이란 전쟁발 에너지 급등으로 **5월 CPI +4.2% YoY**(에너지 +23.5%)가 있었고([CNBC](https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html)), 6/29 미·이란 정전 합의로 유가는 WTI $70선으로 진정됐다([CNBC](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)). 코스피는 반도체 주도로 월간 약 +5% 강세였으나 일간 ±수백 포인트의 고변동 장세였다([tradingeconomics](https://ko.tradingeconomics.com/south-korea/stock-market)). 원/달러는 6월 말 1,530~1,550원대 고환율이 지속됐다([Investing.com](https://kr.investing.com/currencies/usd-krw-historical-data)).
+6월 미국 증시는 5월의 9주 연속 상승·신고가 행진 뒤 **조정**으로 돌아섰다. S&P500은 6월 약 -2%로 월말 7,440선([Madison Investments, June 2026](https://madisoninvestments.com/monthly-market-update-june-2026/)), 나스닥 컴포짓은 5/29\~6/29 약 -6%로 더 크게 빠졌다([Investing.com](https://www.investing.com/indices/nasdaq-composite-historical-data)). 분기점은 **6/17 FOMC**로, 금리는 3.50\~3.75%로 동결됐으나 점도표가 매파로 기울며(위원 다수 연내 인상·인플레 상방 리스크) 시장이 인하 기대를 미뤘다([Fed](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm), [CNBC](https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html)). 배경엔 이란 전쟁발 에너지 급등으로 **5월 CPI +4.2% YoY**(에너지 +23.5%)가 있었고([CNBC](https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html)), 6/29 미·이란 정전 합의로 유가는 WTI $70선으로 진정됐다([CNBC](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html)). 코스피는 반도체 주도로 월간 약 +5% 강세였으나 일간 ±수백 포인트의 고변동 장세였다([tradingeconomics](https://ko.tradingeconomics.com/south-korea/stock-market)). 원/달러는 6월 말 1,530\~1,550원대 고환율이 지속됐다([Investing.com](https://kr.investing.com/currencies/usd-krw-historical-data)).
 
 ### 4-2. 개별 매매 평가
 
